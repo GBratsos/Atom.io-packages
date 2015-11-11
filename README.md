@@ -13,6 +13,7 @@ My personal Atom.io packages
 * minimap
 * pigments
 * todo-show
+* disturb-me
 
 #UI
 * Atom - Material syntax
