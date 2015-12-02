@@ -14,6 +14,7 @@ My personal Atom.io packages
 * pigments
 * todo-show
 * disturb-me
+* activate-power-mode
 
 #UI
 * Atom - Material syntax
