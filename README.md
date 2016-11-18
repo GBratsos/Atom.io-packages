@@ -16,6 +16,7 @@ My personal Atom.io packages
 * minimap
 * pigments
 * todo-show
+* highlight-selected
 * disturb-me
 * activate-power-mode
 
