@@ -19,6 +19,7 @@ My personal Atom.io packages
 * highlight-selected
 * disturb-me
 * activate-power-mode
+* remote-sync
 
 #UI
 * Atom - Material syntax
