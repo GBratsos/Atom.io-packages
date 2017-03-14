@@ -5,21 +5,23 @@
 My personal Atom.io packages
 
 #Packages
-* Atom - Beautify
-* Autoprefixer
+* atom-beautify
+* atom-zurb-foundation
+* autoprefixer
 * color-picker
+* drupal
 * emmet
 * file-icons
+* highlight-selected
 * linter
 * linter-jscs
 * linter-jshint
-* minimap
 * pigments
+* remote-sync
 * todo-show
-* highlight-selected
+
 * disturb-me
 * activate-power-mode
-* remote-sync
 
 #UI
 * Atom - Material syntax
