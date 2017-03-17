@@ -17,7 +17,6 @@ My personal Atom.io packages
 * linter-jscs
 * linter-jshint
 * pigments
-* remote-sync
 * remote-ftp
 * todo-show
 
