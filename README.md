@@ -14,6 +14,7 @@ My personal Atom.io packages
 * file-icons
 * highlight-selected
 * linter
+* linter-csslint
 * linter-jscs
 * linter-jshint
 * pigments
