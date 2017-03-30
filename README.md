@@ -9,6 +9,7 @@ My personal Atom.io packages
 * atom-zurb-foundation
 * autoprefixer
 * color-picker
+* docblockr
 * drupal
 * emmet
 * file-icons
