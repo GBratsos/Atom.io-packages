@@ -18,8 +18,9 @@ My personal Atom.io packages
 * linter-csslint
 * linter-jscs
 * linter-jshint
+* php-twig
 * pigments
-* remote-ftp
+* remote-sync
 * todo-show
 
 * disturb-me
