@@ -8,18 +8,23 @@ My personal Atom.io packages
 * atom-beautify
 * atom-zurb-foundation
 * autoprefixer
+* autocomplete-modules
 * color-picker
 * docblockr
 * drupal
 * emmet
 * file-icons
 * highlight-selected
+* js-hyperclick
+* language-babel
 * linter
 * linter-csslint
+* linter-eslint
 * linter-jscs
 * linter-jshint
 * php-twig
 * pigments
+* react-snipets
 * remote-sync
 * todo-show
 
