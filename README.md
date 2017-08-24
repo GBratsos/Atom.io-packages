@@ -7,7 +7,6 @@ My personal Atom.io packages
 #Packages
 * atom-beautify
 * atom-zurb-foundation
-* autoprefixer
 * autocomplete-modules
 * color-picker
 * docblockr
@@ -15,7 +14,6 @@ My personal Atom.io packages
 * emmet
 * file-icons
 * highlight-selected
-* js-hyperclick
 * language-babel
 * linter
 * linter-csslint
