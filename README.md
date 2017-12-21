@@ -8,12 +8,16 @@ My personal Atom.io packages
 * atom-beautify
 * atom-zurb-foundation
 * autocomplete-modules
+* color-picker
 * docblockr
 * drupal
 * emmet
 * file-icons
 * highlight-selected
+* ide-php
+* ide-typescript
 * language-babel
+* language-vue
 * php-twig
 * pigments
 * react-snipets
